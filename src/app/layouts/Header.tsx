@@ -10,20 +10,20 @@ function Header() {
             Muhammad Hassaan.
           </h2>
         </Link>
-        <nav className="space-x-2 md:space-x-5">
+        <nav className="space-x-2 md:space-x-5 font-bold">
           <Link className="hover:text-accentOrange" href="/">
             Home
           </Link>
-          <Link className="hover:text-accentOrange" href="skills">
+          <Link className="hover:text-accentOrange" href="/skills">
             Skills
           </Link>
-          <Link className="hover:text-accentOrange" href="projects">
+          <Link className="hover:text-accentOrange" href="/projects">
             Projects
           </Link>
-          <Link className="hover:text-accentOrange" href="about">
+          <Link className="hover:text-accentOrange" href="/about">
             About
           </Link>
-          <Link className="hover:text-accentOrange" href="contact">
+          <Link className="hover:text-accentOrange" href="/contact">
             Contact
           </Link>
         </nav>
