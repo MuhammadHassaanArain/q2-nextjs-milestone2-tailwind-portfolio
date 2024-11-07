@@ -4,7 +4,7 @@ import { FaLocationDot } from "react-icons/fa6";
 
 export default function Contact() {
   return (
-    <div className=" bg-bgdark flex justify-center">
+    <div className=" bg-bgdark flex justify-center py-10">
       <main className="w-10/12">
         <section>
           <h2 className="text-2xl text-accentOrange font-bold text-center p-6">
